@@ -5,7 +5,7 @@
     font-family: "Roboto", sans-serif;
 }
 
-/*Header*/
+/* Header */
 
 a {
     text-decoration: none;
@@ -41,7 +41,7 @@ ul {
     gap: 20px;
 }
 
-/* Hero*/
+/* Hero */
 
 .hero {
     background-color: #1f2937;
@@ -89,3 +89,36 @@ ul {
     font-size: 18px;
     margin-top: 15px;
 }
+
+/* Information */
+
+.info-h1 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    max-width: 70%;
+    margin: 50px auto 80px;
+}
+
+.card {
+    width: 150px;
+    height: 160px;
+    border: 3px solid #3882f6;
+    border-radius: 15px;
+}
+
+.card-text {
+    width: 150px;
+    margin-top: 10px;
+    text-align: center;
+}
+
