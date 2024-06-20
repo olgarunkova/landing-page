@@ -1,1 +1,1 @@
-# landing-page
+This is a simple landing page built with HTML and CSS.
